@@ -1,6 +1,6 @@
 # Workflow for testing genotyping and imputation methods with simulated sequencing data
 
-This is the GWF workflow used in Zavala, Rohlfs, Moorjani, biorxiv 2024 (<link>). 
+This is the GWF workflow used in Zavala, Rohlfs, Moorjani, "Benchmarking for genotyping and imputation using degraded DNA for forensic applications across diverse populations",FISG 2024 (<https://doi.org/10.1016/j.fsigen.2024.103177>). 
 
 For information on how to set up GWF please see <https://gwf.app/>
 
